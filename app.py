@@ -2,7 +2,7 @@ import streamlit as st
 import math
 
 # --- ページ設定 ---
-st.set_page_config(page_title="dBm ⇄ W 変換アプリ", layout="centered")
+st.set_page_config(page_title="W ⇄ dBm 変換アプリ", layout="centered")
 
 # --- 見た目の設定（CSS） ---
 st.markdown("""
